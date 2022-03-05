@@ -1,0 +1,23 @@
+input: ./pages
+output: .retype
+url: https://community.altores.properties
+branding:
+  title: Altores
+  # label: v1.011
+  # logo: static/logo.png
+  # logoDark: static/logo-dark.png
+  # logoAlign: right
+links:
+  - text: Altores Official Website
+    link: https://altores.properties/
+    target: blank
+    icon: home
+# favicon: ../static/amooto-icon-rounded.png
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  # links:
+  #   - text: License
+  #     link: license.md
+# integrations:
+#   googleAnalytics:
+#     id: UA-12345678-1

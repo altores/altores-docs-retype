@@ -1,0 +1,13 @@
+{
+  "name": "altores-docs-retype",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "retype watch",
+    "build": "retype build"
+  },
+  "devDependencies": {
+    "retypeapp": "^1.11.2"
+  }
+}
