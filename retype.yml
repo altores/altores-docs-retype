@@ -1,6 +1,7 @@
 input: ./pages
 output: .retype
-url: https://community.altores.properties
+#url: https://community.altores.properties
+url: https://altores.github.io
 branding:
   title: Altores
   # label: v1.011
