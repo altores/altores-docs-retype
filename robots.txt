@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://community.altores.properties/sitemap.xml.gz
+Sitemap: https://altores.github.io/sitemap.xml.gz
