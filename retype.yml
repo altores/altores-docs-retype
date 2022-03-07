@@ -3,9 +3,9 @@ output: .retype
 url: https://community.altores.properties
 #url: https://altores.github.io/altores-docs-retype/
 branding:
-  title: Altores
+  title: Altores Community
   # label: v1.011
-  # logo: static/logo.png
+  logo: static/altores-icon.png
   # logoDark: static/logo-dark.png
   # logoAlign: right
 links:
@@ -13,7 +13,7 @@ links:
     link: https://altores.properties/
     target: blank
     icon: home
-# favicon: ../static/amooto-icon-rounded.png
+favicon: static/altores-icon.png
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
   # links:
