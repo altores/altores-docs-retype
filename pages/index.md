@@ -1,5 +1,6 @@
 ---
 label: Altores Network Overview
+icon: home
 ---
 
 # Altores Network Overview

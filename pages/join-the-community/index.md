@@ -1,6 +1,7 @@
 ---
 label: Join the community
-# icon: rocket
+icon: rocket
+expanded: true
 ---
 
 # Join the community
