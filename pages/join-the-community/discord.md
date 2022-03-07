@@ -16,4 +16,4 @@ The Altoress community membership is designed for people who want to build the A
 
 
 [!ref target="blank" text="Join the Amooto Discord Server!"](https://discord.gg)
-<div align="center" style="margin-top: -20px; opacity: 0.5"><font size="2">Join the Amooto Discord server and start contributing.</font></div>
+<div align="center" style="margin-top: -20px; opacity: 0.5"><font size="2">Join the Altores Discord server and start contributing.</font></div>
